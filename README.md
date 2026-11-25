@@ -1,4 +1,4 @@
-# TextMatch — DAA Capstone Project 6
+# TextMatch — DAA Capstone 
 
 A Streamlit application for comparing two text documents with **from-scratch Naïve, Rabin–Karp, and Knuth–Morris–Pratt (KMP) string matching**. It reports matching contiguous phrases and their locations, a defined word-overlap metric, and measured algorithm runtimes.
 
