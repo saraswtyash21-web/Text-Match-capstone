@@ -1,0 +1,1 @@
+Algorithms are essential tools for solving computational problems efficiently. String matching algorithms search for a pattern within a larger text. The KMP algorithm uses a prefix table to avoid repeated comparisons. Rabin Karp uses a rolling hash to compare windows quickly. Careful benchmarking helps students understand practical performance.
