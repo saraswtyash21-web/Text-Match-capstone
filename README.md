@@ -67,9 +67,7 @@ Here `n` is document character count and `m` is pattern character count. Rabin�
 
 The interface times exact searches over the normalized token stream from Document A with `time.perf_counter` and reports medians across repeated runs. The direct comparison uses extracted patterns. The scaling view uses a controlled normalized version of up to 20,000 source characters from Document A, repeated to 1×/2×/4× size, with 2/4/8-word patterns. Results depend on machine, Python version, content, and timer noise. Do not treat a small-input ranking as a universal speed claim.
 
-## Repository and Zosima.ai submission
-
-Initialize a Git repository in this folder, inspect the staged file list, then commit and push to a repository you control. In Zosima.ai, submit the repository URL using your account. Those hosting actions require your Git provider and Zosima.ai credentials, so complete them while signed in; no credentials are stored in this project.
+#
 
 ## Limitations
 
