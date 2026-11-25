@@ -1,0 +1,1 @@
+String matching algorithms search for a pattern within a larger text. The KMP algorithm uses a prefix table to avoid repeated comparisons. Rabin Karp uses rolling hashes for fast window comparison. In this report, students evaluate algorithm performance using careful benchmarking.
